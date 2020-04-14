@@ -1,0 +1,23 @@
+let numbers[65,43,98,43,23,76,32,54,23,43]
+problem statements
+-------------------
+1. Sort given array 
+    a->  A-Z
+    b-> Z-A
+2. find and display duplicate numbers
+3. replace 76 value with 175 (update)
+4. add new number into above given array (make sure new number should be unique)
+5. remove all duplecates
+6. remove all duplecates and copy non duplicate array into new array
+7. update all the elements of given array by multiplying 10
+8. Reverse given array as mutable
+9. Reverse givem array as immutable
+10. find duplicates in given array in dislay them like followig
+    43 is repeated 3 times
+    23 is repeated 2 times 
+
+//---------------------------------------------------------------------------
+
+praveen.somireddy@cognizant.com
+
+
